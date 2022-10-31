@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "vue": "^3.2.41"
+  },
+  "name": "project0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "X0lotl",
+  "license": "ISC",
+  "description": ""
+}
